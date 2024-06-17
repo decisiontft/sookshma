@@ -1,0 +1,23 @@
+{
+  "name": "sookshma",
+  "version": "1.0.0",
+  "description": "Welcome to Sookshma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decisiontft/sookshma.git"
+  },
+  "author": "Jayvardhan Bhardwaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/decisiontft/sookshma/issues"
+  },
+  "homepage": "https://github.com/decisiontft/sookshma#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.7.0"
+  }
+}
